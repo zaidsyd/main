@@ -1,1 +1,4 @@
-# main
+- 👋 Hi, I’m @zaid
+- 👀 I’m interested in COMPUTER SCIENCE
+- 🌱 I’m currently learning PHP & React-Native
+- 📫 zaidauctech@gmail.com
